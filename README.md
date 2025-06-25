@@ -28,8 +28,8 @@ This is a standard M3U playlist. To use it, ensure your IPTV application support
 - **EPG (GZ):** `https://bit.ly/ddy-epg1-gz`
 
 #### Required Headers
-- **Referer:** `https://cookiewebplay.xyz/`
-- **Origin:** `https://cookiewebplay.xyz`
+- **Referer:** `https://forcedtoplay.xyz/`
+- **Origin:** `https://forcedtoplay.xyz`
 - **User-Agent:** `Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36`
 
 ---
